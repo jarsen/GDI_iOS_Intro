@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='raw'>
+    <pages>
+        <page name='Table of Contents'/>
+        <page name='Simple Values'/>
+        <page name='Variables &amp; Constants'/>
+        <page name='Functions'/>
+        <page name='Flow Control'/>
+        <page name='Structs'/>
+        <page name='Enums'/>
+        <page name='Optionals'/>
+        <page name='Arrays'/>
+        <page name='Dictionaries'/>
+        <page name='Classes'/>
+        <page name='Protocols'/>
+        <page name='Error Handling'/>
+        <page name='UIKit'/>
+        <page name='Model-View-Controller'/>
+    </pages>
+</playground>
