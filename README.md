@@ -1,6 +1,6 @@
 # Intro to iOS with Swift
 
-The following is a collection of class materials that were created for the [SLC Girl Develop It](hhttps://www.girldevelopit.com/chapters/salt-lake-city) [Introduction to iOS workshop](http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/222965183/). The initial materials were created my [Jason Larsen](http://jasonlarsen.me/) ([@jarsen](https://twitter.com/jarsen)) and are available here under a Creative Commons Attribution 4.0 International License. Some of this material is based off of the [work by Mike Zornek](https://github.com/zorn/GDI-iOS-Intro).
+The following is a collection of class materials that were created for the [SLC Girl Develop It](hhttps://www.girldevelopit.com/chapters/salt-lake-city) [Introduction to iOS workshop](http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/222965183/). The materials were created my [Jason Larsen](http://jasonlarsen.me/) ([@jarsen](https://twitter.com/jarsen)) and are available here under a Creative Commons Attribution 4.0 International License. Some of this material is based off of the [work by Mike Zornek](https://github.com/zorn/GDI-iOS-Intro).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
