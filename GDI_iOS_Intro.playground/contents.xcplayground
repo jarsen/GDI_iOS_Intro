@@ -14,7 +14,8 @@
         <page name='Classes'/>
         <page name='Protocols'/>
         <page name='Error Handling'/>
-        <page name='UIKit'/>
+        <page name='Delegate Pattern'/>
         <page name='Model-View-Controller'/>
+        <page name='UIKit'/>
     </pages>
 </playground>

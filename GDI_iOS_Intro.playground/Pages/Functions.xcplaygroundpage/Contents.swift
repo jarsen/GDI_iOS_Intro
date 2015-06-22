@@ -30,4 +30,4 @@ func increment(x: Int) -> Int {
 
 // Try it here
 
-//: [Next](@next)
+//: [Next: Flow Control](@next)
