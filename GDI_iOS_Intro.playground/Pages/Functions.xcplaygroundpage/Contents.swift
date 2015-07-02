@@ -30,4 +30,9 @@ func increment(x: Int) -> Int {
 
 // Try it here
 
+
+//: Try writing your own function that doubles a number
+
+// your function here
+
 //: [Next: Flow Control](@next)

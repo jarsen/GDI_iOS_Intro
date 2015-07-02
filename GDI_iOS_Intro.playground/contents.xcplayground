@@ -6,12 +6,14 @@
         <page name='Variables &amp; Constants'/>
         <page name='Functions'/>
         <page name='Flow Control'/>
+        <page name='Tuples'/>
         <page name='Structs'/>
+        <page name='Classes'/>
         <page name='Enums'/>
         <page name='Optionals'/>
         <page name='Arrays'/>
         <page name='Dictionaries'/>
-        <page name='Classes'/>
+        <page name='Inheritance'/>
         <page name='Protocols'/>
         <page name='Error Handling'/>
         <page name='Delegate Pattern'/>
