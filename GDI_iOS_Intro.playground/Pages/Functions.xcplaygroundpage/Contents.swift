@@ -7,9 +7,9 @@ import Foundation
 
 Let's consider the following function in Ruby, a dynamic programming language:
 
-def increment(x)
-x + 1
-end
+    def increment(x)
+        x + 1
+    end
 
 Now you can call `increment(4)` and get `5` returned to you. Terrific! However, what happens if I call `increment("Hello")`?
 Well, that just makes no sense. However, this is perfectally legal in dynamic programming languages. Running such code leads to
