@@ -9,7 +9,7 @@ The following is a collection of class materials that were created for the [Girl
 * A mac running OS X Yosemite or later
 * A free [developer account](https://developer.apple.com/programs/). You only need a paid developer account when you want to put your app on the store.
 * The latest version of [Xcode 7](https://developer.apple.com/xcode/downloads/). _Please download this before class, it's a large download. I will try to have a copy on an external hard drive just in case._
-* If you want to put your app on a real device and not the simulator, you will need a device running the [iOS 9](http://www.apple.com/ios/ios9-preview/?cid=wwa-us-kwg-features-com) beta. Apple does not recommend putting betas on your primary device (i.e., your personal cell phone). I have done it anyway and so at different points in the class if you'd like we can try running your code on my phone. If you have an extra iOS9 compatible device sitting around and would like to upgrade it to the beta, I can help you with that.
+* If you want to put your app on a real device and not the simulator, you will need a device running the [iOS 9](http://www.apple.com/ios/ios9-preview/?cid=wwa-us-kwg-features-com) beta. The beta is available [here](https://beta.apple.com)
 
 ## Class Schedule
 
