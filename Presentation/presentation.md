@@ -1,5 +1,8 @@
-# Intro to iOS Development
-## by Jason Larsen
+footer: \#IntroiOS
+
+### @GDISLC presents
+#Introduction to iOS Development
+### _by Jason Larsen @jarsen_
 
 ---
 
@@ -73,15 +76,15 @@ It can be an awesome hobby! Make things you want to use, and you might make some
 
 ---
 
-![img](http://blog.rdio.com/.a/6a014e87574ac9970d01b7c7024181970b-pi)
-
-# Swift 2.0
-
----
-
 ![img](http://www.technobuffalo.com/wp-content/uploads/2015/06/xcode5.jpeg)
 
 # Xcode 7
+
+---
+
+![img](http://blog.rdio.com/.a/6a014e87574ac9970d01b7c7024181970b-pi)
+
+# Swift 2.0
 
 ---
 
@@ -101,7 +104,57 @@ While not exactly the same, learning Swift and how to use Xcode will enable you 
 
 ---
 
+# Apple Frameworks Galore!
+
+Not open source (double edged sword).
+
+* UIKit - this is what apps are made of
+* MapKit - apple maps
+* CloudKit - store app data in the cloud
+* StoreKit - handle app store transactions
+* PassKit - digital tickets, boarding passes, member cards.
+* Photos
+* CoreAnimation
+
+---
+
+# Wanna make a game?
+
+* 2D Games - SpriteKit
+* 3D - SceneKit
+* GameController - interface with controllers
+* GameKit - networking, Game Center, voice chat...
+* GameplayKit - game logic, AI
+
+_Note: If you want a cross platform game, check out something like Unity3D_
+
+---
+
+# Lots of 3rd Party Frameworks
+
+Use only as neccessary! Using code you don't understand can lead to pain.
+
+---
+
 # Resources
+
+---
+
+# API Documentation!
+
+There's **A LOT** of documentation available at developer.apple.com
+
+Xcode has a built in doc viewer. (Free)
+
+I like [Dash](https://kapeli.com/dash) ($10 IAP)
+
+---
+
+# Books
+
+* [A Swift Tour](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html) + Playground download
+* [Official Language iBook](https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11) (Free)
+* [iOS 8 SDK Development](https://pragprog.com/book/adios2/ios-8-sdk-development)
 
 ---
 
@@ -136,11 +189,20 @@ Weekly meetups Tuesdays at 7PM @ The Cocoa Bean in Provo. Hanging out and coding
 
 ---
 
-# Utah iOS/Mav Developers Slack
+# Local Meetups
+# [Utah iOS/Mav Developers Slack](http://iosmac.slack.com)
 
 Hundreds of local (or ex-local) iOS and Mac developers.
 
 Talk to me and I can get you in.
+
+---
+
+# WWDC Videos
+
+Available on [web](https://developer.apple.com/videos/) _or_
+[Official app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8) for iPhone/iPad _or_
+[unnoffical mac app](https://github.com/insidegui/WWDC)
 
 ---
 
