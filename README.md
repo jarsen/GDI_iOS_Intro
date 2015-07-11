@@ -22,7 +22,10 @@ The following is a collection of class materials that were created for the [Girl
 * 12AM-1PM - **Lunch.** I will bring my lunch so if you'd like to mingle and hack feel free.
 * 1PM-4PM - Introduction to Xcode 7. Build a simple app and use Interface Builder.
 
-Homework assignment: Think of a cool name for your Journal app we'll be building tomorrow! If you're feeling a bit uncomfortable with Swift, please review the playground.
+Homework assignments:
+
+1. Think of a cool name for your Journal app we'll be building tomorrow! If you're feeling a bit uncomfortable with Swift, please review the playground.
+2. Download [Core Data Editor](http://thermal-core.com/CoreDataEditor/) for free
 
 ### Sunday
 **Goal: Understand MVC and Delegate patterns. Build a basic Journal application**
