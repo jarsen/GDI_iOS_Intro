@@ -27,11 +27,9 @@ Homework assignment: Think of a cool name for your Journal app we'll be building
 ### Sunday
 **Goal: Understand MVC and Delegate patterns. Build a basic Journal application**
 
-* 10AM-10:30AM - Design Patterns: Model View Controller & Delegate
-* 10:30AM-12AM - Listing Entries with a table view
+* 10AM-12AM - Making an app
 * 12AM-1PM - **Lunch.** I will bring my lunch so if you'd like to mingle and hack feel free.
-* 1PM-2PM - Detail view controller and delegate for our EntryDetailController.
-* 2PM-4PM - Persisting data with CoreData and using an `NSFetchedResultsController`.
+* 1PM-4PM - Making more app
 
 ## Friendly Local Meetups
 
