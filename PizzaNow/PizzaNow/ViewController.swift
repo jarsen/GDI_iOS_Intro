@@ -17,7 +17,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        locationManager.requestAlwaysAuthorization()
+        locationManager.requestWhenInUseAuthorization()
     }
 
     @IBAction func pressedSendNow(sender: UIButton) {
@@ -28,12 +28,11 @@ class ViewController: UIViewController, MKMapViewDelegate {
             presentViewController(alert, animated: true, completion: nil)
         }
     }
-
     
     func mapView(mapView: MKMapView, didUpdateUserLocation userLocation: MKUserLocation) {
         let coordinate = userLocation.coordinate
         let region = MKCoordinateRegionMakeWithDistance(coordinate, 2000, 2000)
-        mapView.region = region
+        mapView.setRegion(region, animated: true)
     }
 }
 

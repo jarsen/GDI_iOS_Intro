@@ -46,7 +46,7 @@ Homework assignment: Think of a cool name for your Journal app we'll be building
 * [A Swift Tour](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html) + Playground download
 * [Official Language iBook](https://itunes.apple.com/us/book/swift-programming-language/id1002622538?mt=11)
 * Stanford [iOS / Swift class on iTunes U](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099).
-* WWDC Videos - via [web](https://developer.apple.com/videos/), [official iOS app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8), or [open source desktop app]((https://github.com/insidegui/WWDC) (my favorite)
+* WWDC Videos - via [web](https://developer.apple.com/videos/), [official iOS app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8), or [open source desktop app](https://github.com/insidegui/WWDC) (my favorite)
 * [This Week in Swift](https://swiftnews.curated.co) Newsletter
 
 ## $ Resources
